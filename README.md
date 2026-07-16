@@ -154,6 +154,6 @@ The model has been saved as `best_churn_prediction_model.joblib` for future depl
 
 ## Author: Lawrence Ngukusuk
 ## Email:  ngukusuklawrence@gmail.com
-## Phone:  +237081442142
+## Phone:  +2347081442142
 ## Date :  July,2026
 
